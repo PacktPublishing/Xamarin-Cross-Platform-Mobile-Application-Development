@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        local:MvxBind="Text InfoText" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#ff999999"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp" />
+    <TextView
+        android:text="Enter Ordinal to Calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:gravity="center_horizontal" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        local:MvxBind="Text Input" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#ff999999"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp" />
+    <Button
+        android:text="Calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Click DoCalculateCommand" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#ff999999"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp" />
+    <TextView
+        android:text="Result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        local:MvxBind="Text Result" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#ff999999"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp" />
+    <Button
+        android:text="Close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        local:MvxBind="Click CloseCommand"
+        android:layout_gravity="bottom" />
+</LinearLayout>
