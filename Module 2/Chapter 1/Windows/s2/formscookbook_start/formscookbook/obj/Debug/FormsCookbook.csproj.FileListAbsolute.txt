@@ -1,0 +1,18 @@
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\bin\Debug\FormsCookbook.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\bin\Debug\FormsCookbook.pdb
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\bin\Debug\Xamarin.Forms.Core.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\bin\Debug\Xamarin.Forms.Xaml.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\bin\Debug\Xamarin.Forms.Core.xml
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\bin\Debug\Xamarin.Forms.Xaml.xml
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\obj\Debug\FormsCookbook.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\obj\Debug\FormsCookbook.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\FormsCookbook\obj\Debug\FormsCookbook.pdb
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\bin\Debug\FormsCookbook.dll
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\bin\Debug\FormsCookbook.pdb
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\bin\Debug\Xamarin.Forms.Core.dll
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\bin\Debug\Xamarin.Forms.Xaml.dll
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\bin\Debug\Xamarin.Forms.Core.xml
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\bin\Debug\Xamarin.Forms.Xaml.xml
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\obj\Debug\FormsCookbook.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\obj\Debug\FormsCookbook.dll
+\\Mac\Home\Downloads\Code\CH01\S2\FormsCookbook_Start\FormsCookbook\obj\Debug\FormsCookbook.pdb

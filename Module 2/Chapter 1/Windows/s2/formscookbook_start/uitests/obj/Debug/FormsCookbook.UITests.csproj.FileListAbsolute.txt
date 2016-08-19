@@ -1,0 +1,9 @@
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\bin\Debug\FormsCookbook.UITests.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\bin\Debug\FormsCookbook.UITests.pdb
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\bin\Debug\nunit.framework.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\bin\Debug\Xamarin.UITest.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\bin\Debug\nunit.framework.xml
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\bin\Debug\Xamarin.UITest.xml
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\obj\Debug\FormsCookbook.UITests.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\obj\Debug\FormsCookbook.UITests.dll
+\\psf\Home\Downloads\PACKT Xamarin Book\Xamarin Cross Platform Development Cookbook\Chapter 1\Code\Section 1\FormsCookbook\UITests\obj\Debug\FormsCookbook.UITests.pdb

@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="iOS/XamFormsAuthenticateProviders.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.9.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamFormsAuthenticateProviders/Custom Pages/LoginPage.cs">
+    <Files>
+      <File FileName="XamFormsAuthenticateProviders/Custom Pages/LoginPage.cs" Line="2" Column="21" />
+      <File FileName="XamFormsAuthenticateProviders/Custom Pages/ProvidersAuthPage.cs" Line="11" Column="1" />
+      <File FileName="XamFormsAuthenticateProviders/XamFormsAuthenticateProviders.cs" Line="14" Column="1" />
+      <File FileName="Droid/Platform Specific/LoginPageRenderer.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamFormsAuthenticateProviders" expanded="True">
+            <Node name="XamFormsAuthenticateProviders" expanded="True">
+              <Node name="Custom Pages" expanded="True">
+                <Node name="LoginPage.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="XamFormsAuthenticateProviders.Droid" expanded="True">
+              <Node name="Platform Specific" expanded="True" />
+            </Node>
+            <Node name="XamFormsAuthenticateProviders.iOS" expanded="True">
+              <Node name="Platform Specific" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
