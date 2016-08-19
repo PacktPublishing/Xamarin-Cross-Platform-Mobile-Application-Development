@@ -1,0 +1,17 @@
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/XamFormsInsights.iOS.exe.mdb
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/XamFormsInsights.iOS.exe
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/obj/iPhoneSimulator/Debug/XamFormsInsights.iOS.exe
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/obj/iPhoneSimulator/Debug/XamFormsInsights.iOS.exe.mdb
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/Xamarin.Insights.dll
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/XamFormsInsights.dll
+/Users/georgiostaskos/Documents/TempBookCode/CH11/XamFormsInsights/iOS/bin/iPhoneSimulator/Debug/XamFormsInsights.dll.mdb

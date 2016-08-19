@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamFormsCustomizingRows;assembly=XamFormsCustomizingRows"
+             x:Class="XamFormsCustomizingRows.MainPage"
+             BindingContext="{x:Static local:Character.Characters}"
+             Title="Star Wars">
+  <ListView ItemsSource="{Binding .}" RowHeight="60">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        
+        <!--<ImageCell Text="{Binding Name}"
+                   Detail="{Binding Species}" 
+                   ImageSource ="{Binding ImageUrl}"/>-->
+        
+        <ViewCell>
+          <Grid>
+            <Grid.ColumnDefinitions>
+              <ColumnDefinition Width="75"/>
+              <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Column="0" WidthRequest="75" Source ="{Binding ImageUrl}" Aspect="AspectFit" />
+            <StackLayout Grid.Column="1">
+              <Label Text="{Binding Name}" FontSize="Medium" FontAttributes="Bold"/>
+              <Label Text="{Binding Species}" FontSize="Small"/>
+            </StackLayout>
+          </Grid>
+        </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+</ContentPage>

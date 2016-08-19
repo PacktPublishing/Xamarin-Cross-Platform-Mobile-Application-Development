@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Droid/XamFormsAcceptanceUITesting.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="UITests/AppInitializer.cs" Line="17" Column="25" />
+      <File FileName="UITests/Tests.cs" Line="10" Column="27" />
+      <File FileName="Droid/MainActivity.cs" Line="24" Column="38" />
+      <File FileName="iOS/AppDelegate.cs" Line="25" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="XamFormsAcceptanceUITesting" expanded="True">
+            <Node name="XamFormsAcceptanceUITesting.UITests" expanded="True">
+              <Node name="Test Apps" expanded="True">
+                <Node name="XamFormsAcceptanceUITesting.Droid" selected="True" />
+              </Node>
+              <Node name="XamFormsAcceptanceUITesting" expanded="True">
+                <Node name="UITests" expanded="True">
+                  <Node name="Tests" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

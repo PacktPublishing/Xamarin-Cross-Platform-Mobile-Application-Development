@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			x:Class="XamFormsReplTest.MainPage">
+	<ContentPage.Content>
+		<StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+			<Entry StyleId="usernameEntry" x:Name="usernameEntry" Placeholder="Username" />
+			<Entry StyleId="passwordEntry" x:Name="passwordEntry" Placeholder="Password" IsPassword="true" />
+			<Button StyleId="logInButton" Text="Log In" Clicked="OnLogInClick" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamFormsValueConverter;assembly=XamFormsValueConverter"
+             x:Class="XamFormsValueConverter.MainPage">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:DateTimeToStringConverter x:Key="dateConverter" />
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <Entry Text="{Binding DateOrdered, Converter={StaticResource dateConverter}" 
+         VerticalOptions="Center" HorizontalOptions="Center" />
+</ContentPage>
