@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamlTabbedApp.Pages.FootballPage">
+  <Label Text="Football is like life - it requires perseverance, self-denial, hard work, sacrifice, dedication and respect for authority. Vince Lombardi" 
+         VerticalOptions="Center" 
+         HorizontalOptions="Center" />
+</ContentPage>

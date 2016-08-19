@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamFormsOnPlatform.MainPage">
+  <ContentPage.BackgroundColor>
+    <OnPlatform x:TypeArguments="Color">
+      <OnPlatform.iOS>#FF0000</OnPlatform.iOS>
+      <OnPlatform.Android>#00FF00</OnPlatform.Android>
+      <OnPlatform.WinPhone>#51C0D4</OnPlatform.WinPhone>
+    </OnPlatform>
+  </ContentPage.BackgroundColor>
+  <Label x:Name="label" 
+         Text="Xamarin Forms OnPlatform"
+         HorizontalOptions="Center"
+         VerticalOptions="Center"/>
+  <!--<BoxView HorizontalOptions="Center" BackgroundColor="Black">
+    <BoxView.WidthRequest>
+      <OnPlatform x:TypeArguments="x:Double"
+        iOS="30"
+        Android="40"
+        WinPhone="50" />
+    </BoxView.WidthRequest>
+  </BoxView>-->
+</ContentPage>

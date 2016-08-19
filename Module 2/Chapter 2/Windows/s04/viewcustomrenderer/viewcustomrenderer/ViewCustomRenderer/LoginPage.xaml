@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ViewCustomRenderer;assembly=ViewCustomRenderer"
+             BackgroundColor="#4A90E2"
+             x:Class="ViewCustomRenderer.LoginPage">
+  <StackLayout Orientation="Vertical" VerticalOptions="Center">
+    <local:CustomEntry Placeholder="Username" BackgroundColor="#77ABE9"/>
+    <Image BackgroundColor="White" HeightRequest="1" />
+    <local:CustomEntry Placeholder="Password" IsPassword="True" BackgroundColor="#77ABE9" />
+  </StackLayout>
+</ContentPage>

@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="XamFormsInAppPhoto/XamFormsInAppPhoto.iOS/XamFormsInAppPhoto.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.George's iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamFormsInAppPhoto/XamFormsInAppPhoto.iOS/InAppCameraPage.cs">
+    <Files>
+      <File FileName="XamFormsInAppPhoto/XamFormsInAppPhoto.iOS/InAppCameraPage.cs" Line="50" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamFormsInAppPhoto.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

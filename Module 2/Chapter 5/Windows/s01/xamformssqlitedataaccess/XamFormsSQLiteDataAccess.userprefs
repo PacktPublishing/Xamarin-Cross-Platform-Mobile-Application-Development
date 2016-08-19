@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="XamFormsSQLiteDataAccess/XamFormsSQLiteDataAccess.iOS/XamFormsSQLiteDataAccess.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamFormsSQLiteDataAccess/XamFormsSQLiteDataAccess.WinPhone/SQLiteConnectionWinPhone.cs">
+    <Files>
+      <File FileName="XamFormsSQLiteDataAccess/XamFormsSQLiteDataAccess.Droid/SQLiteConnectionDroid.cs" Line="35" Column="10" />
+      <File FileName="XamFormsSQLiteDataAccess/XamFormsSQLiteDataAccess.iOS/SQLiteConnectionTouch.cs" Line="42" Column="10" />
+      <File FileName="XamFormsSQLiteDataAccess/XamFormsSQLiteDataAccess.WinPhone/SQLiteConnectionWinPhone.cs" Line="34" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

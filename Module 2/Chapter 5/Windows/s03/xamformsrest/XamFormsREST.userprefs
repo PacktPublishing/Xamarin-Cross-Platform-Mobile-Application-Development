@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="XamFormsREST/XamFormsREST.iOS/XamFormsREST.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamFormsREST/XamFormsREST/Views/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamFormsREST/XamFormsREST/Models/DataService.cs" Line="72" Column="11" />
+      <File FileName="XamFormsREST/XamFormsREST/Views/MainPage.xaml" Line="39" Column="14" />
+      <File FileName="XamFormsREST/XamFormsREST/Views/MainPage.xaml.cs" Line="38" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

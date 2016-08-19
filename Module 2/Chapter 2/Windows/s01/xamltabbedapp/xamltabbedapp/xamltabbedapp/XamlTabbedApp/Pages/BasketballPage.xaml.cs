@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Xamarin.Forms;
+
+namespace XamlTabbedApp.Pages
+{
+    public partial class BasketballPage : ContentPage
+    {
+        public BasketballPage()
+        {
+            InitializeComponent();
+
+			photoButton.Clicked += (sender, e) => Navigation.PushAsync(new PhotoPage());
+        }
+    }
+}

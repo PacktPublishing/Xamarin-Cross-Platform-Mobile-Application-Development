@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="XamFormsPlatformGesture/XamFormsPlatformGesture.Droid/XamFormsPlatformGesture.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamFormsPlatformGesture/XamFormsPlatformGesture.Droid/CustomBoxViewRenderer.cs">
+    <Files>
+      <File FileName="XamFormsPlatformGesture/XamFormsPlatformGesture.Droid/CustomBoxViewRenderer.cs" Line="34" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

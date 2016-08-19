@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamlTabbedApp.Pages.SoccerPage">
+  <Label Text="Soccer is simple, but it is difficult to play simple. Johan Cruyff" 
+         VerticalOptions="Center" 
+         HorizontalOptions="Center" />
+</ContentPage>
