@@ -13,4 +13,6 @@ Xamarin Cross-Platform Mobile Application Development By Packt Publishing
 *	Integrate network resources with cross-platform applications
 *	Design and implement eye-catching and reusable UI components without compromising nativity in mobile applications
 
+### Note
+ Modules 1 and 2 have code arranged by chapter (for the chapters that have code). Module 3 has code laid out by platform.
 
