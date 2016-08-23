@@ -14,7 +14,5 @@ Xamarin Cross-Platform Mobile Application Development By Packt Publishing
 *	Design and implement eye-catching and reusable UI components without compromising nativity in mobile applications
 
 ### Note
- Modules 1 and 2 have code arranged by chapter (for the chapters that have code). Module 3 has code laid out by platform.
- Alt-H2
- [Click here] (https://www.cognitoforms.com/None389/CustomerSatisfactionSurvey) if you have any feedback or suggestions.
+ Modules 1 and 2 have code arranged by chapter (for the chapters that have code). Module 3 has code laid out by platform. [Click here] (https://www.cognitoforms.com/None389/CustomerSatisfactionSurvey) if you have any feedback or suggestions.
 
