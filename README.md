@@ -1,5 +1,5 @@
-# Xamarin-Cross-Platform-Mobile-Application-Development
-Xamarin Cross-Platform Mobile Application Development By Packt Publishing 
+# Xamarin Cross-Platform Mobile Application Development
+This is the code repository for Xamarin Cross-Platform Mobile Application Development, published by Packt. It contains all the necessary code files.
 
 ##What You Will Learn:
 
