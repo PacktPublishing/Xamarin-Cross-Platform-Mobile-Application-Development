@@ -13,3 +13,7 @@ This is the code repository for Xamarin Cross-Platform Mobile Application Develo
 *	Integrate network resources with cross-platform applications
 *	Design and implement eye-catching and reusable UI components without compromising nativity in mobile applications
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787120129">https://packt.link/free-ebook/9781787120129 </a> </p>
